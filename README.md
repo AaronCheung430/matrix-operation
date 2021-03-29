@@ -5,6 +5,8 @@ A Python 3 program to implement the matrix operations for any 2x2 to 10x10 matri
 Create structured, commented Python 3 code to implement the matrix operations above for any
 3 × 3 matrix.
 Additionally, the minimum specification below must be met:
+
+
 • be console/text-based
 • use nested lists and loops
 • include user defined functions
@@ -15,6 +17,7 @@ Additionally, the minimum specification below must be met:
 – Find and display the product of two 3 × 3 matrices
 – Exit the program in a controlled manner
 • all code must be appropriately commented
+
 The task can be broken down as follows:
 1. Create structured, commented Python 3 code to implement the matrix operation algorithms to
 the given specification.
