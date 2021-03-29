@@ -32,3 +32,6 @@ your code, and which includes your code listing as an appendix.
 LaTeX style technical document are included and detailed information about this project is also in the document. 
 Click on the LaTeX file for more information about this project.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
