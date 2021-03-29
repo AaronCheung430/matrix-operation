@@ -11,8 +11,8 @@ Additionally, the minimum specification below must be met:
 * use nested lists and loops
 * include user defined functions
 * provide a basic menu system to allow the user to:
- - Enter and store the data for a 3 × 3 matrix
- - Find and display the sum of two 3 × 3 matrices
+  - Enter and store the data for a 3 × 3 matrix
+  - Find and display the sum of two 3 × 3 matrices
  – Find and display the scalar product of a 3 × 3 matrix
  – Find and display the product of two 3 × 3 matrices
  – Exit the program in a controlled manner
